@@ -1,5 +1,7 @@
 # quantquest
 
+[![CI](https://github.com/rxj0102/quantquest.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/rxj0102/quantquest.github.io/actions/workflows/ci.yml)
+
 Game-style learning app for quant interview prep. See `CLAUDE.md` for rules and `PLAN.md` for milestones.
 
 ## Setup
